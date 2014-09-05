@@ -1,4 +1,3 @@
 ‚È‚¨‚µ
 
-master‚Å‚·
-test‚Å‚·
+rebasetest‚Å‚·
